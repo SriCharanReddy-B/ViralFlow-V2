@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ViralFlow",
+  "description": "Engineered for Virality. Upload a video to get AI-powered summaries, key moments, and viral thumbnails.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
